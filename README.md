@@ -12,7 +12,7 @@
 Парсинг новостей в The Economist (консервативный новостной источник) и New York Times (либеральный новостной источник) за март и апрель 2022.\
 Сравнение наиболее часто используемых слов за изучаемые месяцы. 
 
-## The Economist | New York Times \
+## The Economist | New York Times 
 ![image](https://user-images.githubusercontent.com/76436391/170857310-6d345396-bb55-42ba-b3d5-9136d5f847b0.png)
 ![image](https://user-images.githubusercontent.com/76436391/170857304-8517aa53-6bd0-4e5b-9524-8e5f98e01e70.png)
 
