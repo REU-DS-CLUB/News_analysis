@@ -22,6 +22,6 @@
 ###                                                                    Контакты
 
 
-  **Telegram**: @sophi_nikol, @neonoir453 ... \
-  **VK**: vk.com/nik_sophi, vk.com/societyfk, https://vk.com/id174055319, https://vk.com/id194134042 \
-  **Email**: nikolenko.sofiya@list.ru ...
+  **Telegram**: @sophi_nikol, @neonoir453, @Polyanka003, -- \
+  **VK**: vk.com/nik_sophi, vk.com/societyfk, https://vk.com/id174055319, https://vk.com/id194134042, --\
+  **Email**: nikolenko.sofiya@list.ru, --, Pashinskaya03@list.ru, --
