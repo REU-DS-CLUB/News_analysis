@@ -4,7 +4,8 @@
 |----------------|----------------|
 | news_parsing.py | Файл с функциями |
 | theeconomist.pkl | Статьи за март/апрель в The Economist |
-| newyorktimes.pkl | Статьи за март/апрель в New York Times |
+| march_newyorktimes.pkl | Статьи за март в New York Times |
+| april_newyorktimes.pkl | Статьи за апрель в New York Times |
 | requirements.txt | Требуемые библиотеки |
 
 
