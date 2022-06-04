@@ -35,6 +35,6 @@
 ###                                                                    Контакты
 
 
-  **Telegram**: @sophi_nikol, @neonoir453, @Polyanka003, -- \
+  **Telegram**: @sophi_nikol, @neonoir453, @Polyanka003, @allmoon18 \
   **VK**: vk.com/nik_sophi, vk.com/societyfk, https://vk.com/id174055319, https://vk.com/id194134042, --\
-  **Email**: nikolenko.sofiya@list.ru, --, Pashinskaya03@list.ru, --
+  **Email**: nikolenko.sofiya@list.ru, max2003-02@mail.ru, Pashinskaya03@list.ru, alelse24@yandex.ru
